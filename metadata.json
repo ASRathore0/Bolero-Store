@@ -1,0 +1,7 @@
+{
+  "name": "Yours Beauty Unisex Saloon",
+  "description": "A comprehensive salon booking and management platform featuring customer, barber, and admin panels with smart style consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
